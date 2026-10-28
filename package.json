@@ -9,7 +9,8 @@
   "author": "Rahdriawan Prismana",
   "license": "ISC",
   "dependencies": {
-    "@hapi/hapi": "^21.4.11"
+    "@hapi/hapi": "^21.4.11",
+    "nanoid": "^6.0.2"
   },
   "devDependencies": {
     "nodemon": "^3.1.14"

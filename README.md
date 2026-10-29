@@ -1,3 +1,3 @@
-npm install @hapi/hapi
-npm install nodemon --save-dev
-npm install nanoid
+1. npm install @hapi/hapi
+2. npm install nodemon --save-dev
+3. npm install nanoid
